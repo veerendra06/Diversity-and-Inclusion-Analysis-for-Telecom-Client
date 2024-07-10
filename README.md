@@ -1,6 +1,6 @@
 ![Screenshot (11)](https://github.com/veerendra06/Diversity-and-Inclusion-Analysis-for-Telecom-Client/assets/141849906/da916441-e243-4d04-bab5-6a79f40c107a)
-![Sc![Screenshot (12)](https://github.com/veerendra06/Diversity-and-Inclusion-Analysis-for-Telecom-Client/assets/141849906/fc6aed1a-9470-4cb4-bfe3-2e509d35d6a0)
-reenshot (13)](https://github.com/veerendra06/Diversity-and-Inclusion-Analysis-for-Telecom-Client/assets/141849906/97fea538-1ac1-4178-be35-3fc73a5c6adb)
+![Screenshot (12)](https://github.com/veerendra06/Diversity-and-Inclusion-Analysis-for-Telecom-Client/assets/141849906/fc6aed1a-9470-4cb4-bfe3-2e509d35d6a0)
+![Screenshot (13)](https://github.com/veerendra06/Diversity-and-Inclusion-Analysis-for-Telecom-Client/assets/141849906/97fea538-1ac1-4178-be35-3fc73a5c6adb)
 
 
 Our telecom client is committed to enhancing diversity and inclusion, particularly at the executive management level. Despite their efforts, progress has been slow. This report analyzes relevant KPIs to identify root causes and suggests actionable solutions to improve gender balance and overall diversity.
